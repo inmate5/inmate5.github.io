@@ -1226,66 +1226,87 @@ section.lazy-placeholder:after {
 .cid-rFX4id2gq7 .mbr-crt-title {
   text-align: left;
 }
-.cid-rFX4ly2pqg {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rIPFWKiLSo {
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-rFX4ly2pqg .mbr-section-subtitle {
+.cid-rIPFWKiLSo .mbr-section-subtitle {
+  color: #080228;
+}
+.cid-rIPFWKiLSo .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rIPFWKiLSo .mbr-text {
+  color: #080228;
+}
+.cid-rIPFWKiLSo .mbr-author-desc {
+  display: block;
   color: #767676;
 }
-.cid-rFX4ly2pqg .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
+.cid-rIPFWKiLSo .mbr-author-name {
+  color: #080228;
 }
-.cid-rFX4ly2pqg .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
+.cid-rIPFWKiLSo .mbr-testimonial .panel-item {
+  background-color: #efefef;
 }
-.cid-rFX4ly2pqg .team-item .item-image img {
+.cid-rIPFWKiLSo .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-rIPFWKiLSo .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rIPFWKiLSo .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
+  min-width: 100%;
+  min-height: 100%;
 }
-.cid-rFX4ly2pqg .team-item .item-name p {
-  margin-bottom: 0;
+.cid-rIPFWKiLSo .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
 }
-.cid-rFX4ly2pqg .team-item .item-role p {
-  margin-bottom: 0;
+@media (max-width: 300px) {
+  .cid-rIPFWKiLSo .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
 }
-.cid-rFX4ly2pqg .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
+.cid-rIPFWKiLSo H2 {
+  color: #080228;
 }
-.cid-rFX4ly2pqg .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-rFX4ly2pqg .team-item .item-caption {
-  background: #efefef;
-}
-.cid-rG39UyJAjD {
+.cid-rIPZ66rUUq {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-rG39UyJAjD .mbr-slider .carousel-control {
+.cid-rIPZ66rUUq .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-rG39UyJAjD .mbr-slider .carousel-control-prev {
+.cid-rIPZ66rUUq .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-rG39UyJAjD .mbr-slider .carousel-control-next {
+.cid-rIPZ66rUUq .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-rG39UyJAjD .mbr-slider .modal-body .close {
+.cid-rIPZ66rUUq .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-rG39UyJAjD .mbr-gallery-item > div::before {
+.cid-rIPZ66rUUq .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -1298,13 +1319,13 @@ section.lazy-placeholder:after {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rG39UyJAjD .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-rIPZ66rUUq .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-rG39UyJAjD .mbr-gallery-item > div:hover:before {
+.cid-rIPZ66rUUq .mbr-gallery-item > div:hover:before {
   opacity: 1 !important;
 }
-.cid-rG39UyJAjD .mbr-gallery-title {
+.cid-rIPZ66rUUq .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1314,7 +1335,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-rG39UyJAjD .mbr-gallery-title:before {
+.cid-rIPZ66rUUq .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -1398,23 +1419,23 @@ section.lazy-placeholder:after {
 .cid-rFX3RA40rI {
   background-image: url("../../../assets/images/panelefotowoltaiczne1-3-800x319.jpeg");
 }
-.cid-rFX4MWB4aK {
+.cid-rIPWTUcpdN {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #efefef;
 }
 @media (min-width: 992px) {
-  .cid-rFX4MWB4aK .mbr-figure {
+  .cid-rIPWTUcpdN .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rFX4MWB4aK .mbr-figure {
+  .cid-rIPWTUcpdN .mbr-figure {
     padding-bottom: 1rem;
   }
 }
-.cid-rFX4MWB4aK .mbr-text {
-  color: #232323;
+.cid-rIPWTUcpdN .mbr-text {
+  color: #080228;
 }
 .cid-rFX4NgkX91 {
   padding-top: 60px;
@@ -1498,26 +1519,26 @@ section.lazy-placeholder:after {
 .cid-rFX4SiZovH .btn {
   margin: 0 0 .5rem 0;
 }
-.cid-rFX4VxfOUz {
+.cid-rIQKei3GUS {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-rFX4VxfOUz .mbr-slider .carousel-control {
+.cid-rIQKei3GUS .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-rFX4VxfOUz .mbr-slider .carousel-control-prev {
+.cid-rIQKei3GUS .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-rFX4VxfOUz .mbr-slider .carousel-control-next {
+.cid-rIQKei3GUS .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-rFX4VxfOUz .mbr-slider .modal-body .close {
+.cid-rIQKei3GUS .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-rFX4VxfOUz .mbr-gallery-item > div::before {
+.cid-rIQKei3GUS .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -1530,13 +1551,13 @@ section.lazy-placeholder:after {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rFX4VxfOUz .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-rIQKei3GUS .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-rFX4VxfOUz .mbr-gallery-item > div:hover:before {
+.cid-rIQKei3GUS .mbr-gallery-item > div:hover:before {
   opacity: 1 !important;
 }
-.cid-rFX4VxfOUz .mbr-gallery-title {
+.cid-rIQKei3GUS .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1546,7 +1567,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-rFX4VxfOUz .mbr-gallery-title:before {
+.cid-rIQKei3GUS .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -2593,26 +2614,26 @@ section.lazy-placeholder:after {
 .cid-rFX4AI6Ctn .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rG39YaN1wF {
+.cid-rIQJVzxJNp {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-rG39YaN1wF .mbr-slider .carousel-control {
+.cid-rIQJVzxJNp .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-rG39YaN1wF .mbr-slider .carousel-control-prev {
+.cid-rIQJVzxJNp .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-rG39YaN1wF .mbr-slider .carousel-control-next {
+.cid-rIQJVzxJNp .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-rG39YaN1wF .mbr-slider .modal-body .close {
+.cid-rIQJVzxJNp .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-rG39YaN1wF .mbr-gallery-item > div::before {
+.cid-rIQJVzxJNp .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -2625,13 +2646,13 @@ section.lazy-placeholder:after {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rG39YaN1wF .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-rIQJVzxJNp .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-rG39YaN1wF .mbr-gallery-item > div:hover:before {
+.cid-rIQJVzxJNp .mbr-gallery-item > div:hover:before {
   opacity: 1 !important;
 }
-.cid-rG39YaN1wF .mbr-gallery-title {
+.cid-rIQJVzxJNp .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -2641,7 +2662,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-rG39YaN1wF .mbr-gallery-title:before {
+.cid-rIQJVzxJNp .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -3132,26 +3153,26 @@ section.lazy-placeholder:after {
 .cid-rG89UbPvh6 {
   background-image: url("../../../assets/images/panelefotowoltaiczne1-3-800x319.jpeg");
 }
-.cid-rG8aSCYSMp {
+.cid-rIQJSHtZad {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-rG8aSCYSMp .mbr-slider .carousel-control {
+.cid-rIQJSHtZad .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-rG8aSCYSMp .mbr-slider .carousel-control-prev {
+.cid-rIQJSHtZad .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-rG8aSCYSMp .mbr-slider .carousel-control-next {
+.cid-rIQJSHtZad .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-rG8aSCYSMp .mbr-slider .modal-body .close {
+.cid-rIQJSHtZad .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-rG8aSCYSMp .mbr-gallery-item > div::before {
+.cid-rIQJSHtZad .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -3164,13 +3185,13 @@ section.lazy-placeholder:after {
   transition: 0.2s opacity ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rG8aSCYSMp .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-rIQJSHtZad .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-rG8aSCYSMp .mbr-gallery-item > div:hover:before {
+.cid-rIQJSHtZad .mbr-gallery-item > div:hover:before {
   opacity: 1 !important;
 }
-.cid-rG8aSCYSMp .mbr-gallery-title {
+.cid-rIQJSHtZad .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -3180,7 +3201,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-rG8aSCYSMp .mbr-gallery-title:before {
+.cid-rIQJSHtZad .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
